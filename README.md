@@ -21,7 +21,6 @@ cd yolov7-object-tracking
 python3 -m pip install -r requirements.txt
 
 ### For Window Users
-python3 -m venv yolov7objtracking
 cd yolov7objtracking
 python3 -m pip install -r requirements.txt
 
