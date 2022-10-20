@@ -1,4 +1,4 @@
-# yolov7-object-tracking
+# yolov7-person-tracking
 
 ### New Features
 - Added Label for Every Track
