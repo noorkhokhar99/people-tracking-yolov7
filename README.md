@@ -51,7 +51,7 @@ python detect_and_track.py --weights yolov7.pt --source "your video.mp4" --class
 
 ### Results
 
-![!YOLOv7 Vs YOLOv detection video](https://github.com/noorkhokhar99/people-tracking-yolov7/blob/main/runs/detect/object_tracking3/test.mp4)
+<img src="https://github.com/noorkhokhar99/people-tracking-yolov7/blob/main/Screen%20Shot%201444-03-24%20at%2010.01.33%20PM.png">
 
  ### References
  - https://github.com/WongKinYiu/yolov7
